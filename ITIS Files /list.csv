@@ -34,8 +34,8 @@ TSN|Scientific Name|Author|Rank Name|Credibility|Name Usage|Accepted TSN|Accepte
 173605|Ambystoma texanum|(Matthes, 1855)|Species        |Reviewed|valid||
 173605|Ambystoma texanum|(Matthes, 1855)|Species        |Reviewed|valid||
 173592|Ambystoma tigrinum|(Green, 1825)|Species        |Reviewed|valid||
-586248|Ambystoma velasci|Dugès, 1888|Species        |Reviewed|valid||
-586248|Ambystoma velasci|Dugès, 1888|Species        |Reviewed|valid||
+586248|Ambystoma velasci|DugÃ¨s, 1888|Species        |Reviewed|valid||
+586248|Ambystoma velasci|DugÃ¨s, 1888|Species        |Reviewed|valid||
 164039|Ameiurus melas|(Rafinesque, 1820)|Species        |Reviewed|valid||
 101598|Anax junius|(Drury, 1773)|Species        |Reviewed|valid||
 773511|Anaxyrus americanus|(Holbrook, 1836)|Species        |Reviewed|valid||
@@ -189,7 +189,7 @@ TSN|Scientific Name|Author|Rank Name|Credibility|Name Usage|Accepted TSN|Accepte
 173468|Gastrophryne olivacea|(Hallowell, 1856)|Species        |Reviewed|valid||
 178944|Geothlypis trichas|(Linnaeus, 1766)|Species        |Reviewed|valid||
 647314|Girardinichthys multiradiatus|(Meek, 1904)|Species        |Reviewed|valid||
-637417|Gobiomorus maculatus|(Günther, 1859)|Species        |Reviewed|valid||
+637417|Gobiomorus maculatus|(GÃ¼nther, 1859)|Species        |Reviewed|valid||
 173715|Gyrinophilus porphyriticus|(Green, 1827)|Species        |Reviewed|valid||
 |Herichthys cyanoguttatus|||||
 163565|Hesperoleucus symmetricus|(Baird and Girard in Girard, 1854)|Species        |Reviewed|valid||
@@ -286,7 +286,7 @@ TSN|Scientific Name|Author|Rank Name|Credibility|Name Usage|Accepted TSN|Accepte
 775117|Lithobates sylvaticus|(LeConte, 1825)|Species        |Reviewed|valid||
 173440|Rana sylvatica|LeConte, 1825|Species        |Reviewed|invalid|775117|Lithobates sylvaticus
 775125|Lithobates yavapaiensis|(Platz and Frost, 1984)|Species        |Reviewed|valid||
-168160|Micropterus salmoides|(Lacepède, 1802)|Species        |Reviewed|valid||
+168160|Micropterus salmoides|(LacepÃ¨de, 1802)|Species        |Reviewed|valid||
 180305|Microtus californicus|(Peale, 1848)|Species        |Reviewed|valid||
 180312|Microtus ochrogaster|(Wagner, 1842)|Species        |Reviewed|valid||
 |Microtus (Mynomes) oregoni|||||
@@ -306,14 +306,14 @@ TSN|Scientific Name|Author|Rank Name|Credibility|Name Usage|Accepted TSN|Accepte
 161989|Oncorhynchus mykiss|(Walbaum, 1792)|Species        |Reviewed|valid||
 161989|Oncorhynchus mykiss|(Walbaum, 1792)|Species        |Reviewed|valid||
 163589|Orthodon microlepidotus|(Ayres, 1854)|Species        |Reviewed|valid||
-173538|Osteopilus septentrionalis|(Duméril and Bibron, 1841)|Species        |Reviewed|valid||
-173538|Osteopilus septentrionalis|(Duméril and Bibron, 1841)|Species        |Reviewed|valid||
+173538|Osteopilus septentrionalis|(DumÃ©ril and Bibron, 1841)|Species        |Reviewed|valid||
+173538|Osteopilus septentrionalis|(DumÃ©ril and Bibron, 1841)|Species        |Reviewed|valid||
 179464|Passerella iliaca|(Merrem, 1786)|Species        |Reviewed|valid||
 180278|Peromyscus leucopus|(Rafinesque, 1818)|Species        |Reviewed|valid||
 180276|Peromyscus maniculatus|(Wagner, 1845)|Species        |Reviewed|valid||
 180276|Peromyscus maniculatus|(Wagner, 1845)|Species        |Reviewed|valid||
 568101|Planorbella subcrenata|(Carpenter, 1857)|Species        |Reviewed|valid||
-1181812|Plestiodon brevirostris|(Günther, 1860)|Species        |Reviewed|valid||
+1181812|Plestiodon brevirostris|(GÃ¼nther, 1860)|Species        |Reviewed|valid||
 208278|Plethodon albagula|Grobman, 1944|Species        |Reviewed|valid||
 208281|Plethodon chattahoochee|Highton in Highton, Maha and Maxson, 1989|Species        |Reviewed|valid||
 208282|Plethodon chlorobryonis|Mittleman, 1951|Species        |Reviewed|valid||
@@ -324,12 +324,12 @@ TSN|Scientific Name|Author|Rank Name|Credibility|Name Usage|Accepted TSN|Accepte
 173649|Plethodon cinereus|(Green, 1818)|Species        |Reviewed|valid||
 173649|Plethodon cinereus|(Green, 1818)|Species        |Reviewed|valid||
 173649|Plethodon cinereus|(Green, 1818)|Species        |Reviewed|valid||
-|Plethodon glutinosus|||||
-|Plethodon glutinosus|||||
+|PlethodonÂ glutinosus|||||
+|PlethodonÂ glutinosus|||||
 173650|Plethodon glutinosus|(Green, 1818)|Species        |Reviewed|valid||
-|Plethodon glutinosus|||||
+|PlethodonÂ glutinosus|||||
 173650|Plethodon glutinosus|(Green, 1818)|Species        |Reviewed|valid||
-|Plethodon glutinosus|||||
+|PlethodonÂ glutinosus|||||
 173659|Plethodon idahoensis|Slater and Slipp, 1940|Species        |Reviewed|valid||
 173659|Plethodon idahoensis|Slater and Slipp, 1940|Species        |Reviewed|valid||
 173659|Plethodon idahoensis|Slater and Slipp, 1940|Species        |Reviewed|valid||
