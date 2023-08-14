@@ -7,5 +7,5 @@ The database we compiled for Thamnophis dietary records currently spans 32 of th
 
 
 Data Availability
-The Dietary database can be downloaded at https://github.com/theptin/Thamnophis-GloBI/blob/main/GloBI_Thamnophis_Diet_records.csv in its original form. Additionally, it can be found in the GloBI database HERE. 
+The Dietary database can be downloaded at https://github.com/theptin/Thamnophis-GloBI/blob/main/Thamnophis_Diet_records_Analyses.csv in its original form, or its most updated form here: https://github.com/theptin/Thamnophis-GloBI/blob/main/GloBI_Thamnophis_Diet_records.csv. Additionally, it can be found in the GloBI database HERE. 
 
