@@ -1,5 +1,118 @@
-{ 
-  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature.",
-  "deprecated": false
+{
+  "@context" : [ "http://www.w3.org/ns/csvw", {
+    "@language" : "en"
+  } ],
+  "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+  "tables" : [ {
+    "@context" : [ "http://www.w3.org/ns/csvw", {
+      "@language" : "en"
+    } ],
+    "rdfs:comment" : [ "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/" ],
+    "url" : "GloBI_Thamnophis_Diet_records.csv",
+    "dcterms:bibliographicCitation" : "Heptinstall, T. C., R. A. Rosales-Garcia, R. M. Rautsaw, E. P. Hofmann, A. de Queiroz, L. Canseco- Márquez, and C. L. Parkinson. 2023. Size Doesn’t Matter: Body size is not linked to diet specialization in garter snakes (Squamata: Natricidae: Thamnophis). Journal of Herpetology. In Press.",
+    "delimiter" : ",",
+    "headerRowCount" : 1,
+    "interactionTypeName": "preyedUponBy",
+    "interactionTypeId" : "http://purl.obolibrary.org/obo/RO_0002458",
+    "null" : [ "" ],
+    "tableSchema" : {
+      "columns" : [ {
+        "name" : "﻿Prey Highest",
+        "titles" : "﻿Prey Highest",
+        "datatype" : "string"
+      }, {
+        "name" : "Prey Higher",
+        "titles" : "Prey Higher",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonPhylumName",
+        "titles" : "Prey Phylum",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonClassName",
+        "titles" : "Prey Class",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonOrderName",
+        "titles" : "Prey Order",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonFamilyName",
+        "titles" : "Prey Family",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonGenusName",
+        "titles" : "Prey Genus",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonSpecificEpithet",
+        "titles" : "Prey Species",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonName",
+        "titles" : "Prey Species Current",
+        "datatype" : "string"
+      }, {
+        "name" : "sourceTaxonId",
+        "titles" : "Prey Species ID #",
+        "datatype" : "string"
+      }, {
+        "name" : "Prey Count",
+        "titles" : "Prey Count",
+        "datatype" : "string"
+      }, {
+        "name" : "Snake Species",
+        "titles" : "Snake Species",
+        "datatype" : "string"
+      }, {
+        "name" : "Snake Subspecies",
+        "titles" : "Snake Subspecies",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonName",
+        "titles" : "FullSpName",
+        "datatype" : "string"
+      }, {
+        "name" : "targetTaxonId",
+        "titles" : "Snake Species ID #",
+        "datatype" : "string"
+      }, {
+        "name" : "targetLifeStageName",
+        "titles" : "Snake Age Class",
+        "datatype" : "string"
+      }, {
+        "name" : "Snake SVL(mm)",
+        "titles" : "Snake SVL(mm)",
+        "datatype" : "string"
+      }, {
+        "name" : "targetSexName",
+        "titles" : "Snake Sex",
+        "datatype" : "string"
+      }, {
+        "name" : "localityName",
+        "titles" : "Location",
+        "datatype" : "string"
+      }, {
+        "name" : "decimalLatitude",
+        "titles" : "Latitude",
+        "datatype" : "string"
+      }, {
+        "name" : "decimalLongitude",
+        "titles" : "Longitude",
+        "datatype" : "string"
+      }, {
+        "name" : "Citation",
+        "titles" : "Citation",
+        "datatype" : "string"
+      }, {
+        "name" : "referenceCitation",
+        "titles" : "Full Citation",
+        "datatype" : "string"
+      }, {
+        "name" : "referenceDoi",
+        "titles" : "Reference DOI",
+        "datatype" : "string"
+      } ]
+    }
+  } ]
 }
