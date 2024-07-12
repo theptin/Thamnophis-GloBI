@@ -1,5 +1,5 @@
 From the Publication: 
-Heptinstall, T. C., R. A. Rosales-Garcia, R. M. Rautsaw, E. P. Hofmann, A. de Queiroz, L. Canseco- Márquez, and C. L. Parkinson. 2023. Size Doesn’t Matter: Body size is not linked to diet specialization in garter snakes (Squamata: Natricidae: Thamnophis). Journal of Herpetology. In Press.
+Heptinstall, Tucker C., Ramses A. Rosales-Garcia, Rhett M. Rautsaw, Erich P. Hofmann, Alan De Queiroz, Luis Canseco-Márquez, and Christopher L. Parkinson. 2024. “Size Doesn’t Matter: Body Size Is Not Linked to Diet Specialization in Garter Snakes (Squamata: Natricidae: Thamnophis).” Journal of Herpetology 58(2):1–13. doi: 10.1670/23-048.
 
 
 Here, I present a database comprised of dietary records from across the garter snake (Thamnophis) genus.  While incomplete in terms of phylogeny, geography, and sources, this repository is a starting point to the creation of a truly comprehensive database of all garter snake dietary records. This database will increase accessibility of these records for use in future studies and experiments, while promoting new ideas and changes to management strategies and policy.
